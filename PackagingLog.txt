@@ -1,0 +1,43 @@
+mcc -C -o VectorDesigner -W WinMain:VectorDesigner -T link:exe -d C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner\for_testing -v C:\Users\92011\Documents\MATLAB\ProjectX\ProjectX.m -a C:\Users\92011\Documents\MATLAB\ProjectX\music.mat 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[警告: Adding path "C:\Users\92011\Documents\MATLAB\ProjectX" to Compiler path
+instance.] 
+[] 
+Parsing file "C:\Users\92011\Documents\MATLAB\ProjectX\ProjectX.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 23 temporary MEX authorization files.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138413315_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013842473_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138432695_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138426553_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_01384934_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138423734_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013844332_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013849290_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138420387_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138431981_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013842052_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013842831_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138415727_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138414969_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138429389_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138414252_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138427369_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138410575_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013843255_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138420965_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013844763_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_0138417509_4996.auth'.
+Removing: 'C:\Users\92011\AppData\Local\Temp\mathworks_tmp_013849526_4996.auth'.
+Generating file "C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner\for_testing\readme.txt".
+正在打包...
+Adding custom icon C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner_resources\icon.ico to C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner\for_testing\VectorDesigner.exe.
+Attempting to embed the CTF archive into the application C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner\for_testing\VectorDesigner.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Users\92011\Documents\MATLAB\ProjectX\VectorDesigner\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 49 seconds.
